@@ -16,3 +16,4 @@
 
 ## Где со мной связаться  
 - Телеграм: [https://t.me/dyukekat](https://t.me/dyukekat) 🤝💻📱
+- [Посмотреть портфолио](https://github.com/EkaterinaDyuke/Portfolio)
